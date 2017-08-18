@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+This is a landing page for the real estate agency "Твой дом". The site is made with the help of the bootstap, jquery, yandex maps.
 
 # Project Goals
 
